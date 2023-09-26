@@ -326,6 +326,6 @@ footer {
 
     .wrapper {
         width: calc(48%);
-        flex: none;
+        flex: auto;
     }
 }
