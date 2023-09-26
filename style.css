@@ -299,7 +299,7 @@ article {
 article p {
     border-radius: 0.5rem;
     flex-grow: 20;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 footer {
